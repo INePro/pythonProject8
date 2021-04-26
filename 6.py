@@ -1,0 +1,5 @@
+str = str(input())
+s = set(str)
+s= list(s)
+s.sort()
+print(s)
